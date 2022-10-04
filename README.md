@@ -2,7 +2,7 @@
 Fully Lagrangian Heterogeneous Multiscale Method implemented in LAMMPS 
 
 <p>
-<img src="docs/figs/lhmm3.png" width="500">
+<img src="docs/figs/lhmm3.png" width="900">
 </p>
 
 ## Description
