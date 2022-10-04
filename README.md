@@ -1,7 +1,9 @@
 # LHMM
 Fully Lagrangian Heterogeneous Multiscale Method implemented in LAMMPS 
 
-<img src="https://github.com/nmorenoch/LHMM/tree/main/docs/figs/lhmmImage.png" width="300">
+<p>
+<img src="docs/figs/lhmm3.png" width="500">
+</p>
 
 ## Description
 
