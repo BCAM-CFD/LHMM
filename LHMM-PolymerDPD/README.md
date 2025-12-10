@@ -2,7 +2,7 @@
 Fully Lagrangian Heterogeneous Multiscale Method implemented in LAMMPS (SPH-DPD) 
 
 <p>
-<img src="docs/figs/lhmm3.png" width="900">
+<img src="docs/figs/workflow.pdf" width="900">
 </p>
 
 ## Description
